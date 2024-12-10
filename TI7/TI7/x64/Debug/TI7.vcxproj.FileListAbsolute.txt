@@ -1,0 +1,12 @@
+C:\Users\kiril\source\repos\Alivaros\TI-repos\TI7\TI7\x64\Debug\TI7.vcxproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\Alivaros\TI-repos\TI7\TI7\x64\Debug\TI7.MyForm.resources
+C:\Users\kiril\source\repos\Alivaros\TI-repos\TI7\TI7\x64\Debug\TI7.vcxproj.GenerateResource.cache
+C:\Users\kiril\source\repos\Alivaros\TI-repos\TI7\TI7\x64\Debug\TI7.HelpForm.resources
+C:\Users\kiril\OneDrive\Документы\GitHub\TI-repos\TI7\TI7\x64\Debug\TI7.vcxproj.AssemblyReference.cache
+C:\Users\kiril\OneDrive\Документы\GitHub\TI-repos\TI7\TI7\x64\Debug\TI7.HelpForm.resources
+C:\Users\kiril\OneDrive\Документы\GitHub\TI-repos\TI7\TI7\x64\Debug\TI7.MyForm.resources
+C:\Users\kiril\OneDrive\Документы\GitHub\TI-repos\TI7\TI7\x64\Debug\TI7.vcxproj.GenerateResource.cache
+C:\Users\kiril\source\repos\Alivaros\Controlwork_TI-repos\TI7\TI7\x64\Debug\TI7.vcxproj.AssemblyReference.cache
+C:\Users\kiril\source\repos\Alivaros\Controlwork_TI-repos\TI7\TI7\x64\Debug\TI7.HelpForm.resources
+C:\Users\kiril\source\repos\Alivaros\Controlwork_TI-repos\TI7\TI7\x64\Debug\TI7.MyForm.resources
+C:\Users\kiril\source\repos\Alivaros\Controlwork_TI-repos\TI7\TI7\x64\Debug\TI7.vcxproj.GenerateResource.cache
